@@ -1,7 +1,9 @@
-## Olá, me chamo Caroline! 
+## Olá, me chamo Caroline!
+
+<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/91106093/178986405-139b0aa9-0ca7-49bb-9f42-70dab2456fd4.png" width="250px" />
+
 ### Bem-vindo(a) ao meu perfil GitHub 👋
 
-<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/91106093/178986405-139b0aa9-0ca7-49bb-9f42-70dab2456fd4.png" width="400px" />
 
 #### - 🔭 Atualmente estou trabalhando como desenvolvedora Front End na empresa Toraline.
 #### - 🌱 Tenho conhecimentos em HTML, CSS, JavaScript, TypeScript, SCSS, React JS, Git e GitHub. Atualmente estou aprendendo sobre Testes Unitários, Storybook e Inglês.
@@ -12,10 +14,11 @@
 <a href="https://www.linkedin.com/in/caroline-ambar-22ab95a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+
 <div>
 <a href="https://github.com/carolineambar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineambar&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolineambar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineambar&layout=compact&langs_count=7&theme=dracula"/> <img height="145em" src="https://github-readme-stats.vercel.app/api?username=carolineambar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
