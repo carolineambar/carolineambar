@@ -1,6 +1,6 @@
 ## Olá, me chamo Caroline!
 
-<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/91106093/178986405-139b0aa9-0ca7-49bb-9f42-70dab2456fd4.png" width="250px" />
+<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/91106093/178986405-139b0aa9-0ca7-49bb-9f42-70dab2456fd4.png" width="200px" />
 
 ### Bem-vindo(a) ao meu perfil GitHub 👋
 
@@ -16,7 +16,7 @@
 
 <div>
 <a href="https://github.com/carolineambar">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineambar&layout=compact&langs_count=7&theme=dracula"/> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carolineambar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineambar&layout=compact&langs_count=7&theme=dracula"/> <img height="145em" src="https://github-readme-stats.vercel.app/api?username=carolineambar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
