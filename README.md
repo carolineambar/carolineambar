@@ -1,12 +1,15 @@
 ## Olá, me chamo Caroline!
 
-<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/91106093/178986405-139b0aa9-0ca7-49bb-9f42-70dab2456fd4.png" width="200px" />
+<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/91106093/178986405-139b0aa9-0ca7-49bb-9f42-70dab2456fd4.png" width="300px" />
 
 ### Bem-vindo(a) ao meu perfil GitHub 👋
 
 
 #### - 🔭 Atualmente estou trabalhando como desenvolvedora Front End na empresa Toraline.
-#### - 🌱 Tenho conhecimentos em HTML, CSS, JavaScript, TypeScript, SCSS, React JS, Git e GitHub. Atualmente estou aprendendo sobre Testes Unitários, Storybook e Inglês.
+#### - 🌱 Tenho conhecimento em:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />
+ 
+#### - 📚 Atualmente estou aprendendo sobre Testes Unitários, Storybook e Inglês.
 #### - 📫 Como entrar em contato comigo: 
 <div>
 <a href="https://www.instagram.com/carolineambar_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
